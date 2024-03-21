@@ -104,11 +104,13 @@ timeout = 3000
 # [[params.publications]]
 # year = "Submitted
 [[params.publications]]
+year = "* denotes as my students"
+[[params.publications]]
 year = "2024"
 [[params.publications.paper]]
 name = """Perturbing masses: A study of centered 
    co-circular central configurations in power-law n-body problems"""
-authors  = "Zhengyang Tang, **Shuqiang Zhu**"
+authors  = "Zhengyang Tang*, **Shuqiang Zhu**"
 dest  = "Physica D: Nonlinear Phenomena"
 link = "https://doi.org/10.1016/j.physd.2024.134115"
 
