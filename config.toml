@@ -1,0 +1,235 @@
+baseurl = "https://shuqiangzhu.github.io/"
+publishDir = "../shuqiangzhu.github.io"
+languageCode = "en-us"
+title = "祝书强/Shuqiang Zhu"
+theme = "avicenna"
+googleAnalytics = "UA-1234-6"
+timeout = 3000
+
+[params]
+  subtitle= "PhD"
+  interests = "Listed above"
+  cv_name= "cv_zhu-mar21-24.pdf"
+  blog="https://math.swufe.edu.cn/info/1093/19471.htm"
+
+[[params.affilation]]
+  name = "西南財經大學 Southwestern University of Finance and Economics"
+  position = "講師"
+  contact = "zhusq@swufe.edu.cn"
+
+[[params.social]]
+  name = "GitHub"
+  icon = "github"
+  url = "https://github.com/shuqiangzhu"
+
+[[params.social]]
+  name = "Researchgate"
+  icon = "feather"
+  url = "https://www.researchgate.net/profile/Shuqiang-Zhu"
+
+[[params.social]]
+  name = "GoogleScholar"
+  icon = "book-open"
+  url = "https://scholar.google.com.hk/citations?user=NjKhfM8AAAAJ&hl=en"
+
+# [[params.introduction.paragraph]]
+#  text = """**News**: I will be a 
+#  [CANSSI Distinugished Postdoctral Fellow](https://canssi.ca/news/2023-cdpf-recipients/)
+#  shortly after the defence."""
+
+[[params.introduction.paragraph]]
+  text = """**歡迎**: 
+  我是祝书强
+  
+  **About me**: 
+  
+  I completed my BSc and MSc degrees from [Sichuan University](https://www.scu.edu.cn/) 
+  under the guidance of Professor Shiqing Zhang. 
+  I then completed my Ph.D. at  University of Victoria under the guidance of 
+  Professor [Florin Diacu](https://www.math.uvic.ca/faculty/diacu/). 
+  
+  Prior to the position of [Southwestern University of Finance and Economics](https://e.swufe.edu.cn/),  
+  I worked at [University of Science and Technology of China](https://www.ustc.edu.cn/). 
+  I was a visiting scholar at [ITAM](https://www.itam.mx/), where I was fortunate to work with P
+  rofessor [Ernesto Pérez](https://faculty.itam.mx/facultad/160168-ernesto-perez-chavela).
+  
+  **Research**: My current research is centred around:
+1.	Central configurations of the N-body problem, including that in the Euclidean space and space of constant curvature
+2.	Expansive motions in the Newtonian N-body problem
+3.	N-vortex problem
+4.	Periodic motions for N-body problem in space of constant curvature
+  
+  **Teaching**: I teach Calculus, Ordinary Differential Equations, Real Analysis, Linear Algebra. 
+  This term, I am teaching Calculus II, and Real Analysis. 
+  
+  **Current students**: Anqi Qi, Zhengyang Tang, Chao Dong
+  
+  **Grants**:
+  1. National Natural Science Foundation of China, Youth Science Fund Project, Grant No. 11801537, Central Configurations and Variational Minimal Solutions for the N-body Problem in Constant Curvature Spaces, 2019 to 2021, Principal Investigator.
+2.	China Scholarship Council, Young Backbone Teachers' Overseas Research Program, Grant No. [2018]10038, N-body Problem in Constant Curvature Spaces,  2019 to 2020, Principal Investigator.
+
+  """
+
+#[[params.projects]] 
+#[[params.projects.project]]
+#	name = "Statistical inference on functonal times series"
+#	description  = """Ongoing joint work with my supervisors:
+#	    Prof. Gregory Rice and Prof. Joel A. Dubin."""
+#	project_page = ""
+#	code_link = ""
+#	blog_link = ""
+
+#[[params.projects.project]]
+#  name = "Capture-recapture modeling in Bayesian paradigm"
+#	description  = """Ongoing joint work with Prof. 
+#	[Laura L.E. Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) 
+#	 at the University of Victoria."""
+#	project_page = ""
+#	code_link = ""
+#	blog_link = ""
+
+# [[params.publications]]
+# year = "Preprint"
+
+#[[params.publications.paper]]
+# name = """Factor copula model for spatially correlated functional data"""
+# authors  = "**Chi-Kuang Yeh**, Yan Shi & Peijun Sang"
+# dest  = "Ready to submit, manuscript available upon request"
+# code_link = ""
+# blog_link = ""
+
+# [[params.publications]]
+# year = "Submitted
+
+[[params.publications]]
+year = "2024"
+[[params.publications.paper]]
+name = """Perturbing masses: A study of centered 
+   co-circular central configurations in power-law n-body problems"""
+authors  = "Zhengyang Tang, **Shuqiang Zhu**"
+dest  = "Physica D: Nonlinear Phenomena"
+link = "https://doi.org/10.1016/j.physd.2024.134115"
+code_link = ""
+blog_link = ""
+
+[[params.publications]]
+year = "2022"
+####
+[[params.publications.paper]]
+name = """Stability of regular polygonal relative equilibria on S2"""
+ authors  = "Antonio Hernández-Garduño, Ernesto Pérez-Chavela, **Shuqiang Zhu**"
+ dest  = "Journal of Nonlinear Science"
+ link = "https://doi.org/10.1007/s00332-022-09824-7"
+ code_link = ""
+ blog_link = "" 
+
+[[params.publications.paper]]
+name = """Dziobek equilibrium configurations on a sphere"""
+ authors  = "**Shuqiang Zhu**"
+ dest  = "Journal of Dynamics and Differential Equations"
+ link = "https://doi.org/10.1007/s10884-021-10001-9"
+ code_link = ""
+ blog_link = ""
+####
+[[params.publications]]
+year = "2021"
+[[params.publications.paper]]
+name = "Compactness and index of ordinary central configurations for the curved N-body problem"
+authors = "**Shuqiang Zhu**"
+dest  = "Regular and Chaotic Dynamics"
+link = "https://doi.org/10.1134/S1560354721030035"
+
+[[params.publications.paper]]
+name = "Classification of (n+1,1)-stacked central configurations in R3 "
+authors = "Xiang Yu, **Shuqiang Zhu**"
+dest  = "Journal of Nonlinear Science"
+link = "https://doi.org/10.1007/s00332-020-09659-0"
+
+[[params.publications.paper]]
+name = "Almost all 3-body relative equilibria are inclined, Discrete Contin. "
+authors = "Florin Diacu, **Shuqiang Zhu**"
+dest  = "Discrete and Continuous Dynamical Systems - Series S"
+link = "https://doi.org/10.3934/dcdss.2020067"
+[[params.publications]]
+year = "2019"
+[[params.publications.paper]]
+name = "Variational property of Keplerian orbits by Maslov-type index"
+authors = "Yanxia Deng, Florin Diacu, **Shuqiang Zhu**"
+dest  = "Journal of Differential Equations"
+link = "https://doi.org/10.1016/j.jde.2019.06.008"
+[[params.publications]]
+year = "2018"
+[[params.publications.paper]]
+name = "Central configurations of the curved n-body problem"
+authors = "Florin Diacu, Cristina Stoica, **Shuqiang Zhu**"
+dest  = "Journal of Nonlinear Science"
+link = "https://doi.org/10.1007/s00332-018-9473-y"
+[[params.publications]]
+year = "2014"
+[[params.publications.paper]]
+name = "Eulerian relative equilibria of the curved 3-body problems in S2"
+authors = "**Shuqiang Zhu**"
+dest  = "Proceedings of the American Mathematical Society"
+link = "https://doi.org/10.1090/S0002-9939-2014-11995-2"
+
+
+[[params.publications]]
+  year="Thesis"
+[[params.publications.paper]]
+	name = """Central configurations of the curved N-body problem"""
+  authors = "**Shuqiang Zhu**"
+	dest  = "PhD’s Thesis, University of Victoria"
+	link = "https://dspace.library.uvic.ca/items/6ca6d996-e1c5-4bc9-aa7f-bfc558f384e7"
+	code_link = ""
+	blog_link = ""
+# [[params.projects.project]]
+#		name = "Integer eget aliquet nibh praesent tristique magna"
+#		description  = ""
+#		project_page = "https://myprojecthomepage.com"
+#		code_link = ""
+#		blog_link = "https://ablogpost.com"
+
+#[[params.publications]]
+#  year="Preprint"
+
+#  [[params.publications.paper]]
+#    name = "Enim nunc faucibus a pellentesque sit amet porttitor"
+#    authors = "Ana Alvardo, William Worthley, __Hadi Sinaee__"
+#    dest  = "Helga Zita Journal"
+#    link = "https://mypaperishere.com"
+#    code_link = "https://thecoderepo.com"
+#    blog_link = "https://myblogaboutit.com"
+
+#  [[params.publications.paper]]
+#    name = "In cursus turpis massa tincidunt dui ut ornare lectus sit"
+#    authors = "__Hadi Sinaee__,Les Larkins, Edra Ethier"
+#    dest  = "Meklit Katlego Conference"
+#    link = "https://mypaperishere.com"
+#    code_link = "https://thecoderepo.com"
+#    blog_link = "https://myblogaboutit.com"
+
+
+
+#  [[params.publications.paper]]
+#		name = "Venenatis urna cursus eget nunc. Nam aliquam sem et tortor consequat id porta nibh venenatis"
+#		authors = "Les Larkins, Ana Alvardo, __Hadi Sinaee__ "
+#		dest  = "Zorka Vita Conference"
+#		link = "https://mypaperishere.com"
+#		code_link = ""
+#		blog_link = "https://myblogaboutit.com"
+
+#  [[params.publications.paper]]
+#		name = "Aliquet eget sit amet tellus cras adipiscing enim eu turpis"
+#		authors = "Les Larkins, __Hadi Sinaee__, Ana Alvardo"
+#		dest  = "Lena Randa Conference"
+#		link = "https://mypaperishere.com"
+#		code_link = ""
+#		blog_link = ""
+
+#  [[params.publications.paper]]
+#		name = "Orci eu lobortis elementum nibh tellus molestie nunc non blandit"
+#		authors = "__Hadi Sinaee__, Caroll Comes"
+#		dest  = "Thandeka Radhika Conference"
+#		link = ""
+#		code_link = ""
+#		blog_link = ""
