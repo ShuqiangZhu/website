@@ -45,11 +45,12 @@ timeout = 3000
   
   I completed my BSc and MSc degrees from [Sichuan University](https://www.scu.edu.cn/) 
   under the guidance of Professor Shiqing Zhang. 
-  I then completed my Ph.D. at  University of Victoria under the guidance of 
+  I then did my Ph.D. at [University of Victoria](https://www.uvic.ca/) 
+  under the guidance of 
   Professor [Florin Diacu](https://www.math.uvic.ca/faculty/diacu/). 
   
   Prior to the position of [Southwestern University of Finance and Economics](https://e.swufe.edu.cn/),  
-  I worked at [University of Science and Technology of China](https://www.ustc.edu.cn/). 
+  I worked at [University of Science and Technology of China](https://www.ustc.edu.cn/) (中国科学技术大学). 
   I was a visiting scholar at [ITAM](https://www.itam.mx/), where I was fortunate to work with 
   Professor [Ernesto Pérez](https://faculty.itam.mx/facultad/160168-ernesto-perez-chavela).
   
@@ -66,7 +67,7 @@ timeout = 3000
   
   **Grants**:
   1. National Natural Science Foundation of China, Youth Science Fund Project, Grant No. 11801537, Central Configurations and Variational Minimal Solutions for the N-body Problem in Constant Curvature Spaces, 2019 to 2021, Principal Investigator.
-2.	China Scholarship Council, Young Backbone Teachers' Overseas Research Program, Grant No. [2018]10038, N-body Problem in Constant Curvature Spaces,  2019 to 2020, Principal Investigator.
+  2.	China Scholarship Council, Young Backbone Teachers' Overseas Research Program, Grant No. [2018]10038, N-body Problem in Constant Curvature Spaces,  2019 to 2020, Principal Investigator.
 
   """
 
@@ -100,7 +101,6 @@ timeout = 3000
 
 # [[params.publications]]
 # year = "Submitted
-
 [[params.publications]]
 year = "2024"
 [[params.publications.paper]]
@@ -109,12 +109,9 @@ name = """Perturbing masses: A study of centered
 authors  = "Zhengyang Tang, **Shuqiang Zhu**"
 dest  = "Physica D: Nonlinear Phenomena"
 link = "https://doi.org/10.1016/j.physd.2024.134115"
-code_link = ""
-blog_link = ""
 
 [[params.publications]]
 year = "2022"
-####
 [[params.publications.paper]]
 name = """Stability of regular polygonal relative equilibria on S2"""
  authors  = "Antonio Hernández-Garduño, Ernesto Pérez-Chavela, **Shuqiang Zhu**"
