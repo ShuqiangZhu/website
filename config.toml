@@ -69,7 +69,7 @@ timeout = 3000
   
   **Grants**:
   1. National Natural Science Foundation of China, Youth Science Fund Project, Grant No. 11801537, Central Configurations and Variational Minimal Solutions for the N-body Problem in Constant Curvature Spaces, 2019 to 2021, Principal Investigator.
-  2.	China Scholarship Council, Young Backbone Teachers' Overseas Research Program, Grant No. [2018]10038, N-body Problem in Constant Curvature Spaces,  2019 to 2020, Principal Investigator.
+  2. China Scholarship Council, Young Backbone Teachers' Overseas Research Program, Grant No. [2018]10038, N-body Problem in Constant Curvature Spaces,  2019 to 2020, Principal Investigator.
 
   """
 
@@ -108,10 +108,9 @@ year = "* denotes as my students"
 [[params.publications]]
 year = "2024"
 [[params.publications.paper]]
-name = """Perturbing masses: A study of centered 
-   co-circular central configurations in power-law n-body problems"""
+name = """Perturbing masses: A study of centered co-circular central configurations in power-law n-body problems"""
 authors  = "Zhengyang Tang*, **Shuqiang Zhu**"
-dest  = "Physica D: Nonlinear Phenomena"
+dest  = "Physica D: Nonlinear Phenomena, 461, 134115"
 link = "https://doi.org/10.1016/j.physd.2024.134115"
 
 [[params.publications]]
@@ -119,7 +118,7 @@ year = "2022"
 [[params.publications.paper]]
 name = """Stability of regular polygonal relative equilibria on S2"""
  authors  = "Antonio Hernández-Garduño, Ernesto Pérez-Chavela, **Shuqiang Zhu**"
- dest  = "Journal of Nonlinear Science"
+ dest  = "Journal of Nonlinear Science, 32, 73"
  link = "https://doi.org/10.1007/s00332-022-09824-7"
  code_link = ""
  blog_link = "" 
@@ -127,7 +126,7 @@ name = """Stability of regular polygonal relative equilibria on S2"""
 [[params.publications.paper]]
 name = """Dziobek equilibrium configurations on a sphere"""
  authors  = "**Shuqiang Zhu**"
- dest  = "Journal of Dynamics and Differential Equations"
+ dest  = "Journal of Dynamics and Differential Equations, 34, 1269--1283"
  link = "https://doi.org/10.1007/s10884-021-10001-9"
  code_link = ""
  blog_link = ""
@@ -137,40 +136,40 @@ year = "2021"
 [[params.publications.paper]]
 name = "Compactness and index of ordinary central configurations for the curved N-body problem"
 authors = "**Shuqiang Zhu**"
-dest  = "Regular and Chaotic Dynamics"
+dest  = "Regular and Chaotic Dynamics, 26, 236--257"
 link = "https://doi.org/10.1134/S1560354721030035"
 
 [[params.publications.paper]]
-name = "Classification of (n+1,1)-stacked central configurations in R3 "
+name = "Classification of (n+1,1)-stacked central configurations in R3"
 authors = "Xiang Yu, **Shuqiang Zhu**"
-dest  = "Journal of Nonlinear Science"
+dest  = "Journal of Nonlinear Science, 31, 11"
 link = "https://doi.org/10.1007/s00332-020-09659-0"
 
 [[params.publications.paper]]
-name = "Almost all 3-body relative equilibria are inclined, Discrete Contin. "
+name = "Almost all 3-body relative equilibria are inclined, Discrete Contin"
 authors = "Florin Diacu, **Shuqiang Zhu**"
-dest  = "Discrete and Continuous Dynamical Systems - Series S"
+dest  = "Discrete and Continuous Dynamical Systems - Series S, 13, 1131--1143"
 link = "https://doi.org/10.3934/dcdss.2020067"
 [[params.publications]]
 year = "2019"
 [[params.publications.paper]]
 name = "Variational property of Keplerian orbits by Maslov-type index"
 authors = "Yanxia Deng, Florin Diacu, **Shuqiang Zhu**"
-dest  = "Journal of Differential Equations"
+dest  = "Journal of Differential Equations, 267, 5851--5869"
 link = "https://doi.org/10.1016/j.jde.2019.06.008"
 [[params.publications]]
 year = "2018"
 [[params.publications.paper]]
 name = "Central configurations of the curved n-body problem"
 authors = "Florin Diacu, Cristina Stoica, **Shuqiang Zhu**"
-dest  = "Journal of Nonlinear Science"
+dest  = "Journal of Nonlinear Science, 28, 1999--2046"
 link = "https://doi.org/10.1007/s00332-018-9473-y"
 [[params.publications]]
 year = "2014"
 [[params.publications.paper]]
 name = "Eulerian relative equilibria of the curved 3-body problems in S2"
 authors = "**Shuqiang Zhu**"
-dest  = "Proceedings of the American Mathematical Society"
+dest  = "Proceedings of the American Mathematical Society, 142, 2837--2848"
 link = "https://doi.org/10.1090/S0002-9939-2014-11995-2"
 
 
