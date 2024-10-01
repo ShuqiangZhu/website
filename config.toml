@@ -67,7 +67,7 @@ timeout = 3000
   
   **Current students**: Anqi Qi, Zhengyang Tang, Chao Dong
   
-  **Past students**: Shuoheng Huang
+  #**Past students**: Shuoheng Huang
   
   **Grants**:
   1. National Natural Science Foundation of China, Youth Science Fund Project, Grant No. 11801537, Central Configurations and Variational Minimal Solutions for the N-body Problem in Constant Curvature Spaces, 2019 to 2021, Principal Investigator.
@@ -107,6 +107,15 @@ timeout = 3000
 # year = "Submitted
 [[params.publications]]
 year = "* denotes as my students"
+[[params.publications]]
+year = "2024"
+[[params.publications.paper]]
+name = """The Schubart Orbits in the Curved Three-Body Problem with Two Equal Masses"""
+authors  = "**Shuqiang Zhu**"
+dest  = "Journal of Nonlinear Science, 34, 109,2024"
+link = "https://link.springer.com/article/10.1007/s00332-024-10087-7"
+
+
 [[params.publications]]
 year = "2024"
 [[params.publications.paper]]
