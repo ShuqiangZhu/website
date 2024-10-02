@@ -116,9 +116,6 @@ authors  = "**Shuqiang Zhu**"
 dest  = "Journal of Nonlinear Science, 34, 109,2024"
 link = "https://link.springer.com/article/10.1007/s00332-024-10087-7"
 
-
-[[params.publications]]
-year = "2024"
 [[params.publications.paper]]
 name = """Perturbing masses: A study of centered co-circular central configurations in power-law n-body problems"""
 authors  = "Zhengyang Tang*, **Shuqiang Zhu**"
