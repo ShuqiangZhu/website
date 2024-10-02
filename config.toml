@@ -9,7 +9,7 @@ timeout = 3000
 [params]
   subtitle= "PhD"
   interests = "Listed above"
-  cv_name= "cv_zhu-mar21-24.pdf"
+  cv_name= "cv-Oct2-24.pdf"
   blog="https://math.swufe.edu.cn/info/1093/19471.htm"
 
 [[params.affilation]]
